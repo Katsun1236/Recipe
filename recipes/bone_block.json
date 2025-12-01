@@ -1,0 +1,26 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:bone_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": [
+        {
+          "item": "minecraft:bone"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:bone_block"
+    }
+  }
+}
